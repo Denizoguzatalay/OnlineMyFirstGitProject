@@ -5,6 +5,12 @@ public class FirstTest {
 
         System.out.println("hello");
         System.out.println("Test");
+        System.out.println("hello");
+        System.out.println("Test");
+        System.out.println("hello");
+        System.out.println("Test");
+        System.out.println("hello");
+        System.out.println("Test");
 
 
     }
